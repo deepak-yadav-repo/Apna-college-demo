@@ -1,2 +1,2 @@
 # Apna-college-demo
-this is my first fit reop
+this is my first git reop
